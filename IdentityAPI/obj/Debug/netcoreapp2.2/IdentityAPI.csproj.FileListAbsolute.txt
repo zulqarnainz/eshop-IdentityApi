@@ -1,0 +1,30 @@
+D:\Batches\Batch Demos\Hexaware-Pune-Batch5\Microservices\IdentityAPI\IdentityAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Batches\Batch Demos\Hexaware-Pune-Batch5\Microservices\IdentityAPI\IdentityAPI\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Batches\Batch Demos\Hexaware-Pune-Batch5\Microservices\IdentityAPI\IdentityAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Batches\Batch Demos\Hexaware-Pune-Batch5\Microservices\IdentityAPI\IdentityAPI\bin\Debug\netcoreapp2.2\IdentityAPI.deps.json
+D:\Batches\Batch Demos\Hexaware-Pune-Batch5\Microservices\IdentityAPI\IdentityAPI\bin\Debug\netcoreapp2.2\IdentityAPI.runtimeconfig.json
+D:\Batches\Batch Demos\Hexaware-Pune-Batch5\Microservices\IdentityAPI\IdentityAPI\bin\Debug\netcoreapp2.2\IdentityAPI.runtimeconfig.dev.json
+D:\Batches\Batch Demos\Hexaware-Pune-Batch5\Microservices\IdentityAPI\IdentityAPI\bin\Debug\netcoreapp2.2\IdentityAPI.dll
+D:\Batches\Batch Demos\Hexaware-Pune-Batch5\Microservices\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.csprojAssemblyReference.cache
+D:\Batches\Batch Demos\Hexaware-Pune-Batch5\Microservices\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.RazorAssemblyInfo.cache
+D:\Batches\Batch Demos\Hexaware-Pune-Batch5\Microservices\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.RazorAssemblyInfo.cs
+D:\Batches\Batch Demos\Hexaware-Pune-Batch5\Microservices\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.AssemblyInfoInputs.cache
+D:\Batches\Batch Demos\Hexaware-Pune-Batch5\Microservices\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.AssemblyInfo.cs
+D:\Batches\Batch Demos\Hexaware-Pune-Batch5\Microservices\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.RazorTargetAssemblyInfo.cache
+D:\Batches\Batch Demos\Hexaware-Pune-Batch5\Microservices\IdentityAPI\IdentityAPI\bin\Debug\netcoreapp2.2\IdentityAPI.pdb
+D:\Batches\Batch Demos\Hexaware-Pune-Batch5\Microservices\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.dll
+D:\Batches\Batch Demos\Hexaware-Pune-Batch5\Microservices\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.pdb
+D:\Zulqarnain\Training\Azure\EshopMicroservices\IdentityAPI\IdentityAPI\bin\Debug\netcoreapp2.2\IdentityAPI.deps.json
+D:\Zulqarnain\Training\Azure\EshopMicroservices\IdentityAPI\IdentityAPI\bin\Debug\netcoreapp2.2\IdentityAPI.runtimeconfig.json
+D:\Zulqarnain\Training\Azure\EshopMicroservices\IdentityAPI\IdentityAPI\bin\Debug\netcoreapp2.2\IdentityAPI.runtimeconfig.dev.json
+D:\Zulqarnain\Training\Azure\EshopMicroservices\IdentityAPI\IdentityAPI\bin\Debug\netcoreapp2.2\IdentityAPI.dll
+D:\Zulqarnain\Training\Azure\EshopMicroservices\IdentityAPI\IdentityAPI\bin\Debug\netcoreapp2.2\IdentityAPI.pdb
+D:\Zulqarnain\Training\Azure\EshopMicroservices\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.csprojAssemblyReference.cache
+D:\Zulqarnain\Training\Azure\EshopMicroservices\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.csproj.CoreCompileInputs.cache
+D:\Zulqarnain\Training\Azure\EshopMicroservices\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.RazorAssemblyInfo.cache
+D:\Zulqarnain\Training\Azure\EshopMicroservices\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.RazorAssemblyInfo.cs
+D:\Zulqarnain\Training\Azure\EshopMicroservices\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.AssemblyInfoInputs.cache
+D:\Zulqarnain\Training\Azure\EshopMicroservices\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.AssemblyInfo.cs
+D:\Zulqarnain\Training\Azure\EshopMicroservices\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.RazorTargetAssemblyInfo.cache
+D:\Zulqarnain\Training\Azure\EshopMicroservices\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.dll
+D:\Zulqarnain\Training\Azure\EshopMicroservices\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.pdb
